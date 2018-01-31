@@ -1,0 +1,29 @@
+{
+  "name": "www.n00.li",
+  "version": "0.0.1",
+  "description": "N00.li Website, useful tools for development.",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js --ignore public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N00DotLi/www.n00.li.git"
+  },
+  "keywords": [
+    "n",
+    "00",
+    "norfair",
+    "0",
+    "fr",
+    "li",
+    "n00",
+    "norfair00"
+  ],
+  "author": "Nicolas Favre (Aka. norfair00)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N00DotLi/www.n00.li/issues"
+  },
+  "homepage": "https://github.com/N00DotLi/www.n00.li#readme"
+}
