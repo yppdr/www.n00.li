@@ -42,7 +42,7 @@
 | [Passport Facebook][passport-facebook]            | ❌           | [Passport Steam][passport-steam]                  | ❌           |
 | [Passport Github2][passport-github2]              | ❌           | [Passport Twitch][passport-twitch]                | ❌           |
 | [Passport Local][passport-local]                  | ❌           | [Passport Twitter][passport-twitter]              | ❌           |
-| [Passport Reddit][passport-reddit]                | ❌           | [passport-trello][Passport Trello]                | ❌           |
+| [Passport Reddit][passport-reddit]                | ❌           | [Passport Trello][passport-trello]                | ❌           |
 
 ## License
 
