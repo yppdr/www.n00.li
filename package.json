@@ -6,6 +6,7 @@
   "scripts": {
     "test": "nodemon server.js --ignore public"
   },
+  "os": [ "linux" ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/N00DotLi/www.n00.li.git"
@@ -13,17 +14,32 @@
   "keywords": [
     "n",
     "00",
-    "norfair",
-    "0",
-    "fr",
-    "li",
     "n00",
-    "norfair00"
+    "li",
+    ".",
+    "dot",
+    "norfair",
+    "zero",
+    "zz",
+    "zerozero",
+    "node",
+    "js",
+    "nodejs"
   ],
-  "author": "Nicolas Favre (Aka. norfair00)",
+  "author": {
+    "name": "Nicolas Favre (Aka. norfair00)",
+    "email": "no-reply@norfair00.fr",
+    "url": "http://norfair00.fr/"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/N00DotLi/www.n00.li/issues"
   },
-  "homepage": "https://github.com/N00DotLi/www.n00.li#readme"
+  "homepage": "https://github.com/N00DotLi/www.n00.li#readme",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-ejs-layouts": "^2.3.1"
+  }
 }
